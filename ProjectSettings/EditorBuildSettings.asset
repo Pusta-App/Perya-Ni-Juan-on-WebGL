@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/BytesCrafter/PeryaNiJuan/Scene/Intro.unity
+    guid: 0b28dc871333cf24896b0489661515a6
+  - enabled: 1
+    path: Assets/BytesCrafter/PeryaNiJuan/Scene/Menu.unity
+    guid: 356f7e4a9ebbe9740ad18dbcb1552f52
+  - enabled: 1
+    path: Assets/BytesCrafter/PeryaNiJuan/Scene/Transitions/ToMenu.unity
+    guid: 9d42d6dd2ea997149b650af2eccac0c4
+  - enabled: 1
+    path: Assets/BytesCrafter/PeryaNiJuan/Scene/Transitions/ToManokRoleta.unity
+    guid: d486e37c6d9b9d440a6d1705917a5745
+  - enabled: 1
+    path: Assets/BytesCrafter/PeryaNiJuan/Scene/Transitions/ToLandscape.unity
+    guid: 2a9069accb597834597a7796c3024b3d
+  - enabled: 1
+    path: Assets/BytesCrafter/PeryaNiJuan/Scene/Transitions/ToColorGame.unity
+    guid: f988455c16ed43e44bde1ce6860b3417
+  - enabled: 1
+    path: Assets/BytesCrafter/PeryaNiJuan/Scene/Transitions/ToBallDrop.unity
+    guid: 81d19a4fc98e3514188756aed387ebbd
+  - enabled: 1
+    path: Assets/BytesCrafter/PeryaNiJuan/Scene/Games/BallDrop.unity
+    guid: 242fdaeae1d125e45a58474eed18c3d8
+  - enabled: 1
+    path: Assets/BytesCrafter/PeryaNiJuan/Scene/Games/ColorGame.unity
+    guid: 8747d8e8df43de3438941dfa0dafbd19
+  - enabled: 1
+    path: Assets/BytesCrafter/PeryaNiJuan/Scene/Games/ManokRoleta.unity
+    guid: a1eb21098eea17e4c92bd8074f04bead
+  m_configObjects: {}

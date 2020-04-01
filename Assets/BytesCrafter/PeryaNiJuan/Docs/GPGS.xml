@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Google Play game services IDs.
+Save this file as res/values/games-ids.xml in your project.
+-->
+<resources>
+  <!-- app_id -->
+  <string name="app_id" translatable="false">612923689579</string>
+  <!-- package_name -->
+  <string name="package_name" translatable="false">com.CychozStudio.PeryahanNiJuanColorGame</string>
+
+
+  DONE! <!-- achievement Rate This Game -->
+  <string name="achievement_rate_this_game" translatable="false">CgkI65TlqOsREAIQAA</string>
+  DONE! <!-- achievement Share On Facebook -->
+  <string name="achievement_share_on_facebook" translatable="false">CgkI65TlqOsREAIQAQ</string>
+  <!-- achievement Share On Twitter -->
+  <string name="achievement_share_on_twitter" translatable="false">CgkI65TlqOsREAIQAg</string>
+  <!-- achievement Checkmates -->
+  <string name="achievement_checkmates" translatable="false">CgkI65TlqOsREAIQEA</string>
+  <!-- achievement Coin Drops -->
+  <string name="achievement_coin_drops" translatable="false">CgkI65TlqOsREAIQEQ</string>
+  <!-- achievement Beginners Luck -->
+  <string name="achievement_beginners_luck" translatable="false">CgkI65TlqOsREAIQCg</string>
+  <!-- achievement Coin Storm -->
+  <string name="achievement_coin_storm" translatable="false">CgkI65TlqOsREAIQCw</string>
+  <!-- achievement Hard Core -->
+  <string name="achievement_hard_core" translatable="false">CgkI65TlqOsREAIQEg</string>
+  <!-- achievement Just Playing -->
+  <string name="achievement_just_playing" translatable="false">CgkI65TlqOsREAIQDA</string>
+  <!-- achievement Loyalty Gem -->
+  <string name="achievement_loyalty_gem" translatable="false">CgkI65TlqOsREAIQDQ</string>
+  <!-- achievement Winner's Luck -->
+  <string name="achievement_winners_luck" translatable="false">CgkI65TlqOsREAIQDg</string>
+  <!-- achievement Betting God -->
+  <string name="achievement_betting_god" translatable="false">CgkI65TlqOsREAIQDw</string>
+  <!-- achievement Start Your Journey -->
+  <string name="achievement_start_your_journey" translatable="false">CgkI65TlqOsREAIQAw</string>
+  <!-- achievement Know What Matters -->
+  <string name="achievement_know_what_matters" translatable="false">CgkI65TlqOsREAIQBA</string>
+  <!-- achievement Making things Right -->
+  <string name="achievement_making_things_right" translatable="false">CgkI65TlqOsREAIQBw</string>
+  <!-- achievement Just Keep Going -->
+  <string name="achievement_just_keep_going" translatable="false">CgkI65TlqOsREAIQCA</string>
+  <!-- achievement This is it, Pansit -->
+  <string name="achievement_this_is_it_pansit" translatable="false">CgkI65TlqOsREAIQCQ</string>
+  <!-- achievement Promised Land -->
+  <string name="achievement_promised_land" translatable="false">CgkI65TlqOsREAIQFg</string>
+  
+
+
+
+  DONE! <!-- leaderboard Player's Board -->
+  <string name="leaderboard_players_board" translatable="false">CgkI65TlqOsREAIQBQ</string>
+  DONE! <!-- leaderboard COLOR MATICS -->
+  <string name="leaderboard_color_matics" translatable="false">CgkI65TlqOsREAIQGQ</string>
+  DONE! <!-- leaderboard STAR BOLEROS -->
+  <string name="leaderboard_star_boleros" translatable="false">CgkI65TlqOsREAIQGg</string>
+  DONE! <!-- leaderboard SABONGEROS -->
+  <string string name="leaderboard_sabongeros" translatable="false">CgkI65TlqOsREAIQGw</string>
+
+
+
+  DONE! <!-- event About Us - Click -->
+  <string name="event_about_us__click" translatable="false">CgkI65TlqOsREAIQFw</string>
+  DONE! <!-- event Color Game - Enter -->
+  <string name="event_color_game__enter" translatable="false">CgkI65TlqOsREAIQHA</string>
+  DONE! <!-- event Sabong Roulette - Enter -->
+  <string name="event_sabong_roulette__enter" translatable="false">CgkI65TlqOsREAIQHQ</string>
+  DONE! <!-- event Ball Drop - Enter -->
+  <string name="event_ball_drop__enter" translatable="false">CgkI65TlqOsREAIQHg</string>
+  DONE! <!-- event Settings - Click -->
+  <string name="event_settings__click" translatable="false">CgkI65TlqOsREAIQHw</string>
+  DONE! <!-- event More - Click -->
+  <string name="event_more__click" translatable="false">CgkI65TlqOsREAIQIA</string>
+  DONE! <!-- event Color Game - How to Play -->
+  <string name="event_color_game__how_to_play" translatable="false">CgkI65TlqOsREAIQIQ</string>
+  DONE! <!-- event Ball Drop - How to Play -->
+  <string name="event_ball_drop__how_to_play" translatable="false">CgkI65TlqOsREAIQIg</string>
+  DONE! <!-- event Sabong Roulette - How to Play -->
+  <string name="event_sabong_roulette__how_to_play" translatable="false">CgkI65TlqOsREAIQIw</string>
+  DONE! <!-- event Game Request - Click -->
+  <string name="event_game_request__click" translatable="false">CgkI65TlqOsREAIQJA</string>
+  DONE! <!-- event Rate on Google Play - Click -->
+  <string name="event_rate_on_google_play__click" translatable="false">CgkI65TlqOsREAIQJQ</string>
+  DONE! <!-- event Share on Facebook - Click -->
+  <string name="event_share_on_facebook__click" translatable="false">CgkI65TlqOsREAIQJg</string>
+  DONE! <!-- event Reward Request - Click -->
+  <string name="event_reward_request__click" translatable="false">CgkI65TlqOsREAIQJw</string>
+  DONE! <!-- event Bill Request - Click -->
+  <string name="event_bill_request__click" translatable="false">CgkI65TlqOsREAIQKA</string>
+</resources>

@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: d0faa0f0e0ffbd04582e51c0ca1b1b18
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: TMBG Severe Tire Damage
+  fontNames:
+  - TMBG Severe Tire Damage
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c86454d00aa9506419bfb5704130ffd7, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

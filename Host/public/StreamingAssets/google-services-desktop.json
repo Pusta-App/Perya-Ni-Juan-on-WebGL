@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "612923689579",
+    "firebase_url": "https://peryahan-ni-juan-color-g-494.firebaseio.com",
+    "project_id": "peryahan-ni-juan---color-g-494",
+    "storage_bucket": "peryahan-ni-juan---color-g-494.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612923689579:android:b6be255cd966bfb6",
+        "android_client_info": {
+          "package_name": "com.CychozStudio.PeryahanNiJuanColorGame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612923689579-39soktmplh8dnjgmum818bi8kec8v7fh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg24f7ISiVz3i4XANO5h_wyBxcj8tIqZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612923689579-39soktmplh8dnjgmum818bi8kec8v7fh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

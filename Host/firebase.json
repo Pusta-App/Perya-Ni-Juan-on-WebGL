@@ -1,0 +1,15 @@
+{
+  "hosting": {
+    "site": "peryahan-ni-juan-color-g-494",
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [ {
+      "source": "/**",
+      "dynamicLinks": true
+    } ]
+  }
+}
